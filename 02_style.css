@@ -1,0 +1,45 @@
+.background{
+    background-color: lightskyblue;
+    background: cover;
+}
+.whitespace {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 4rem;
+    width: 100%;
+    background-color: white;
+    border-bottom: 1px solid pink;
+}
+.navbar {
+    float: right;
+    margin-right: 50px;
+    list-style-type: none;
+    text-align: center;
+}
+.button {
+    background-color: blue;
+    padding: 0.5em;
+    border-radius: .3em;
+}
+.wholeInputs {
+    padding-top: 10px;
+    width:280px;
+    background:#f3f1f1;
+    height: 350px;
+    margin:0 auto;
+    margin-top: 9em;
+    border-radius: 4px;
+    text-align: center;
+    box-shadow: 0px 0px 15px -2.5px #000;   
+}
+.logo {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+}
+.logoLine {
+    position: absolute;
+    left: 37.5em;
+    bottom: 12em;
+}
